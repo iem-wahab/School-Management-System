@@ -1,0 +1,7 @@
+	                         *************Teacher Record**************
+  F.Name    L.Name    Email	  Joining Date Password     Cnic No.      Gender Qualifications Contact No.Date Of Birth Address Salarey
+1 | Muhammad | Ali | ali.nu.edu.pk | 13-01-2019 | ali441@ | 33201-8974546-1 | Male |	Ms(CS) | 098765432 | 13-01-2002 | Pakistan | 123456
+2 | Roy	     | Jay | roy.nu.edu.pk | 12-03-2018 | roy441@ | 1234-09785654-1 | Male |	Ms(SE) | 098676554 | 12-04-1999 | England  | 456577
+3 | Elam     | Bob | elam.nu.edu.pk | 14-01-2018 | ela441@ | 23345-0986765-0 | Girl |	Ms(CS) | 123354667 | 11-01-2000 | Poland   | 123543
+
+Roy | Bill | Roy@nu.edu.pk | 12-01-2008 | qwe123 | 33201-7712345-1 | Others | Ms(CS) | 0123-4567890 | 13-01-1998 | Italy | 123456

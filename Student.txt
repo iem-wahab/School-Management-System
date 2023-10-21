@@ -1,0 +1,6 @@
+					**************Student Data**************
+Roll No.F.Name L.Name Class R.Date  Gender Contact No. Father     Pr  Contact  Fee   B.G  Address     Contact No.  Password  
+10-01 | Ameer | Hamza | 10 | 13-01-2020 | Male | 0234454556 | Abubakar | --- | 09876544 | 1200 | A+ | Pakistan   | 03177795854 | 1234 |
+10-02 | Gem   | Bob   | 10 | 12-01-2019 | Male | 0234454658 | Joy      | --- | 09532765 | 1300 | B- | Vietnam    | 09876131345 | 4567 |
+10-03 | Kane  | Jim   | 10 | 13-02-2020 | Male | 0234454566 | Watson   | --- | 09873444 | 1400 | O- | NewZealand | 01234567543 | 8888 |
+10-04 | Ameer | Hamza | 10 | 12-01-2019 | Male | 0317-1234567 | Abubaker | Business | 0322-781230212 | - | A+ | China | 

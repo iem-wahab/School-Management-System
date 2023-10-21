@@ -1,0 +1,4 @@
+					 ************ Courses ************
+Course Name |     Course Code | Parent Course | Class
+Urdu	             U116B	 Sarmaya	10
+English	             | E117B	 | Composition	| 10

@@ -1,0 +1,7 @@
+		***********Teacher Courses Data***********
+Teacher		Courses		Class		Section  
+Hamza		English		One		B
+Ali		Urdu		Two		C	
+Anas		maths		Three		F
+Wahab		Oop		Five		E	
+Muhammad    |English |10   |A |
